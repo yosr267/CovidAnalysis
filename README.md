@@ -1,4 +1,5 @@
 # COVID-19 Data Analysis
+![Covid](Covid.jpg)
 
 ## Overview
 This project analyzes COVID-19 data to uncover trends and insights across countries and regions using SQL and Tableau. It demonstrates how to extract, clean, and visualize data to better understand the impact of the pandemic.
