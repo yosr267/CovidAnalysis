@@ -16,8 +16,12 @@ This project analyzes COVID-19 data to uncover trends and insights across countr
 - `SQL_Scripts/`: Contains all SQL scripts used for data extraction and transformation.
 - `Tableau_Dashboard/`: Tableau workbook and related visualization files.
 - `README.md`: Project description and instructions.
+## Tableau Dashboard
+An **interactive Tableau dashboard** was created to visualize COVID-19 trends and metrics:  
+- Country-level and region-level trends of cases, deaths, and recoveries  
+- Time-series analysis of the pandemic  
+- Filters for countries, regions, and time periods
 
-## Dashboard
 You can view the interactive Tableau dashboard here: [Tableau Dashboard](https://public.tableau.com/app/profile/yousr.sahnoun/viz/CovidAnalysis2020-2021_17617402360080/Tableaudebord1)
 
 ## How to Use
